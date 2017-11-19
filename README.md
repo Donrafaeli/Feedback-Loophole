@@ -6,15 +6,15 @@ It takes input from the microphone and translates it to movement of objects.
 
 I recommend using it with an external microphone, so you can control gain manually.
 
-USING:
+## Using
 
 — install Processing from https://processing.org/
 — open .pde file
 — play around
 
 
-CONTROLLING
-:
+## Controlling
+
 You control the program using the mouse. Below is a crude mouse area diagram. (view raw to display correctly)
 	
  ______________SMALL SHAPE______________
