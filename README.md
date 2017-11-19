@@ -26,7 +26,6 @@ You control the program using the mouse. Below is a crude mouse area diagram.
 |:SLOW FADE---------------------FAST FADE:|
 |:---------------------------------------:|
 |:---------------------------------------:|
-|:---------------------------------------:|
 |:-------------LARGE SHAPE---------------:|
 
 In addition to this, clicking and holding the left or right mouse button moves the shapes in different ways.
