@@ -17,20 +17,17 @@ I recommend using it with an external microphone, so you can control gain manual
 
 ## Controlling
 
-You control the program using the mouse. Below is a crude mouse area diagram. (view raw to display correctly)
+You control the program using the mouse. Below is a crude mouse area diagram.
 	
- ______________SMALL SHAPE______________
-|					|
-|					|		
-|					|
-|					|
-|					|
-SLOW FADE			    FAST FADE
-|					|
-|					|
-|					|
-|					|
-|______________LARGE SHAPE______________|
+|:-------------SMALL SHAPE---------------:|
+|:---------------------------------------:|
+|:---------------------------------------:|
+|:---------------------------------------:|
+|:SLOW FADE---------------------FAST FADE:|
+|:---------------------------------------:|
+|:---------------------------------------:|
+|:---------------------------------------:|
+|:-------------LARGE SHAPE---------------:|
 
 In addition to this, clicking and holding the left or right mouse button moves the shapes in different ways.
 
