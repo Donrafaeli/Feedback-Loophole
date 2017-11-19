@@ -9,7 +9,9 @@ I recommend using it with an external microphone, so you can control gain manual
 ## Using
 
 — install Processing from https://processing.org/
+
 — open .pde file
+
 — play around
 
 
