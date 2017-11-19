@@ -19,7 +19,7 @@ I recommend using it with an external microphone, so you can control gain manual
 
 You control the program using the mouse. Below is a crude mouse area diagram.
 	
-|:-------------SMALL SHAPE---------------:|
+|:------------SMALL SHAPE--------------:|
 |:---------------------------------------:|
 |:---------------------------------------:|
 |:---------------------------------------:|
