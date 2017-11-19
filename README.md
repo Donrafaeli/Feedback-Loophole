@@ -6,8 +6,16 @@ It takes input from the microphone and translates it to movement of objects.
 
 I recommend using it with an external microphone, so you can control gain manually.
 
-You control the program using the mouse. Below is a crude mouse area diagram. (view raw to display correctly)
+USING:
 
+— install Processing from https://processing.org/
+— open .pde file
+— play around
+
+
+CONTROLLING
+:
+You control the program using the mouse. Below is a crude mouse area diagram. (view raw to display correctly)
 	
  ______________SMALL SHAPE______________
 |					|
@@ -21,7 +29,6 @@ SLOW FADE			    FAST FADE
 |					|
 |					|
 |______________LARGE SHAPE______________|
-
 
 In addition to this, clicking and holding the left or right mouse button moves the shapes in different ways.
 
